@@ -18,12 +18,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeaMoN2108&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeaMoN2108&layout=compact&theme=radical)  
-
 ---
+
 ### Электронные сертификаты:
 - ["Поколение Python": курс для начинающих](https://stepik.org/cert/1897938)
 - Тестирование ПО с нуля. Теория + Практика
+
+---
 
 ### 📫 Как со мной связаться:
 - ✉️ Email: dimayaroshchuk008@inbox.ru
